@@ -15,7 +15,8 @@ Paper: **ALIEN**: **A**ttention-Guided Cross-Reso**L**ut**I**on Collaborativ**E*
 * Cross-resolution fusion module facilitates the simultaneous capture of detailed and high-level semantic information.
 * Scale-aware activation module selectively extracts and integrates specific patterns from decoded features for feature refinement.
 
-## Predictive Model Construction
+## Model Construction
 
+The `model build.py` file contains model-building and prediction codes, which can be used to output prediction values.
 
 
